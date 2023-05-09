@@ -1,0 +1,35 @@
+[
+  {
+    "title": "producto1",
+    "description": "descripcion",
+    "code": "111aa",
+    "price": 123,
+    "status": true,
+    "stock": 13,
+    "category": "categoria1",
+    "thumbnails": "",
+    "id": "0b12d90b-a66d-41a2-874b-cb86e84695b3"
+  },
+  {
+    "title": "producto2",
+    "description": "descripcion",
+    "code": "111aa",
+    "price": 123,
+    "status": true,
+    "stock": 13,
+    "category": "categoria1",
+    "thumbnails": "",
+    "id": "27e5e209-a147-4dd1-ae0c-e02288dbd60a"
+  },
+  {
+    "title": "productoActaaaualizado",
+    "description": "daaaaaaa",
+    "code": "111aa",
+    "price": 123,
+    "status": true,
+    "stock": 13,
+    "category": "categoria1123",
+    "thumbnails": "",
+    "id": "53500663-7793-47cd-80e9-db49854edb0e"
+  }
+]
