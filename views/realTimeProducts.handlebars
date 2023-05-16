@@ -1,0 +1,20 @@
+<div>
+    <h1>Cuentanos algo</h1>
+    <form onsubmit="return addProduct()">
+        <input type="text" id="title" placeholder="title">
+        <input type="text" id="description" placeholder="descripcion">
+        <input type="text" id="code" placeholder="code">
+        <input type="text" id="price" placeholder="price">
+        <input type="text" id="status" placeholder="status">
+        <input type="text" id="stock" placeholder="stock">
+        <input type="text" id="category" placeholder="category">
+        <input type="text" id="thumbnails" placeholder="thumbnails">
+        <input type="submit" value="Enviar">
+    </form>
+</div>
+<div>
+    <h1>Lista de productos</h1>
+    <div id="listConteiner"></div>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/realTimeProducts.js"></script>
